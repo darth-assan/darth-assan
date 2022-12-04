@@ -10,4 +10,4 @@
 👨‍💻 Studing to become a Pentester<br>
 🚧 **Current Project:** [eJPT Certification](https://ine.com/learning/certifications/internal/elearnsecurity-junior-penetration-tester-v2)
 
-[commit]:<img src="https://tryhackme-badges.s3.amazonaws.com/darthurassan.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/darthurassan.png" alt="TryHackMe">
